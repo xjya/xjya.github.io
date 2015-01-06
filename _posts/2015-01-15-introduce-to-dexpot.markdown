@@ -3,6 +3,7 @@ layout: post
 title: "Dexpot软件介绍"
 date: 2015-01-05 16:06
 categories: software
+permalink: /introduce-to-dexpot.html
 ---
 
 [Dexpot][1]是一款虚拟桌面软件，[小众软件][2]有对它的介绍，简单操作不再赘述。  
