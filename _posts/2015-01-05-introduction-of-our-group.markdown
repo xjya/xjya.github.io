@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Introduction to our group"
+title: "Introduction to Our Group"
 date: 2015-01-05 21:59
-categories: Introduction, 油油
+categories: 油油
 permalink: /introduction-to-our-group.html
 ---
 

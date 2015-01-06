@@ -111,11 +111,15 @@ a {
   overflow: hidden;
   display: block; }
   #avatar:hover {
+    //注释掉使头像不再旋转
+    /*
     -webkit-animation: spin .35s linear infinite;
     -moz-animation: spin .35s linear infinite;
     -ms-animation: spin .35s linear infinite;
     -o-animation: spin .35s linear infinite;
-    animation: spin .35s linear infinite; }
+    animation: spin .35s linear infinite; 
+    */
+  }
   @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     #avatar {
       background: url(/assets/img/avatar@2X.png);
@@ -683,7 +687,8 @@ iframe {
     -moz-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     -o-transform: rotate(180deg);
-    transform: rotate(180deg); }
+    transform: rotate(180deg); 
+  }
   @media screen and (max-width: 585px) {
     #icon-arrow {
       padding: 15px; } }
