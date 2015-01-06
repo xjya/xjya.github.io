@@ -7,10 +7,10 @@ permalink: /how-to-write-this-blog.html
 ---
 
 #1. 成为合作编辑者  
-成为本博客的合作编辑者需要先联系我，我将在项目中添加合作者。（需要你有github.com的账号）
+需要先联系我，我将在项目中添加合作者。（需要你有github.com的账号）
 
 #2. 下载客户端  
-下载[`Git for Windows`](https://windows.github.com/)或者[`GitHub for Mac`](https://mac.github.com/)。  
+下载[`Github for Windows`](https://windows.github.com/)或者[`GitHub for Mac`](https://mac.github.com/)。  
 
 #3. 克隆项目文件  
 点击[`项目页面`](https://github.com/xjya/xjya.github.io)右侧的[`Clone in Desktop`](github-windows://openRepo/https://github.com/xjya/xjya.github.io)按钮。  
@@ -39,6 +39,6 @@ permalink填一个你觉得好听的名字。
 	小窍门
 	搜狗输入法中，只需要输`rq`就能插入日期，`sj`就能插入时间。  
 
-然后再点客户端右上角的Sync，这样一篇博客就完成啦~
+最后点客户端右上角的Sync，一篇博客就完成啦~
 
 
