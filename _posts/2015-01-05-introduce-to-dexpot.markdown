@@ -2,7 +2,7 @@
 layout: post
 title: "Dexpot软件介绍"
 date: 2015-01-05 16:06
-categories: software
+categories: 進芫
 permalink: /introduce-to-dexpot.html
 ---
 
