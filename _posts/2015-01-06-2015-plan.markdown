@@ -4,7 +4,7 @@ title: "2015年计划"
 date: 2015-01-06 09:06
 categories: 進芫
 permalink: /2015-plan.html
-identifier: 20150106
+identifier: 2015-plan
 ---
 
 暂无，2015年1月17日后写
