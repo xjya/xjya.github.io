@@ -1,3 +1,7 @@
+#持续写作中。。  
+
+#以下是theme的readme
+
 # 3-Jekyll Theme
 
 欢迎任何改进建议，请直接[提交 issues](https://github.com/P233/3-Jekyll/issues/new)，感谢。
