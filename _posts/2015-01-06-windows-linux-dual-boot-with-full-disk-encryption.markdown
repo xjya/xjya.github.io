@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Windows、Linux双系统安装并全盘加密"
-date: 2015-01-06 12:06
+date: 2015-01-07 12:06
 categories: 進芫
 permalink: /windows-linux-dual-boot-with-full-disk-encryption.html
+identifier: windows-linux-dual-boot-with-full-disk-encryption
 ---
 
 这个问题曾经最好的解决方案是TrueCrypt，没有之一。它的影子系统至今没有同类软件能实现相同功能。  

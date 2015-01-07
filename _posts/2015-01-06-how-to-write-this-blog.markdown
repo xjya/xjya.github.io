@@ -4,6 +4,7 @@ title: "如何写本博客"
 date: 2015-01-06 12:06
 categories: 進芫
 permalink: /how-to-write-this-blog.html
+identifier: how-to-write-this-blog
 ---
 
 #1. 成为合作编辑者  
@@ -25,11 +26,13 @@ title: "如何写本博客"
 date: 2015-01-06 12:06  
 categories: 進芫  
 permalink: /how-to-write-this-blog.html  
+identifier: how-to-write-this-blog  
 ---  
 {% endhighlight %}
 `categories`填写小君、油油、進芫、bobo中的一个。  
 `permalink`填一个你觉得好听的名字。
-文件内容使用markdown语法，使用[`马克飞象`](http://maxiang.info/)来试试markdown语法吧~上手就会，根本不用教~
+`identifier`用于评论的唯一码，起个唯一的名字。假如与另一篇博客相同，则两篇博客共享评论。  
+文件内容使用markdown语法，使用[`马克飞象`](http://maxiang.info/)来试试markdown语法吧~上手就会，根本不用教~  
 
 #5. 发布博客
 在Github客户端中，点击Uncommitted changes，输入Summary和Description。  
