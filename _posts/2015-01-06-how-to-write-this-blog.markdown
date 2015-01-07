@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "如何写本博客"
-date: 2015-01-06 12:06
+date: 9998-01-06 12:06
 categories: 進芫
 permalink: /how-to-write-this-blog.html
 identifier: 20150106
@@ -29,13 +29,14 @@ permalink: /how-to-write-this-blog.html
 identifier: how-to-write-this-blog  
 ---  
 {% endhighlight %}
+`date`博客根据日期逆序排序。假如需要置顶博文，只需要设置一个巨大的年份，比如9999。  
 `categories`填写小君、油油、進芫、bobo中的一个。  
 `permalink`填一个你觉得好听的名字。
 `identifier`用于评论的唯一码，起个唯一的名字。两篇博客需共享评论则设为相同。  
 文件内容使用markdown语法，使用[`马克飞象`](http://maxiang.info/)来试试markdown语法吧~上手就会，根本不用教~  
 
 #5. 发布博客
-在Github客户端中，点击Uncommitted changes，输入Summary和Description。  
+在Github客户端中，选择master分支，点击Uncommitted changes，输入Summary和Description。  
 如果没有重要的更新，可以只输入时间。  
 	小窍门
 	搜狗输入法中，只需要输`rq`就能插入日期，`sj`就能插入时间。  
