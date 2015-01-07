@@ -16,7 +16,7 @@ if ($(window).width() <= 1280) {
     tag3       = $('.油油'),
     tag4       = $('.bobo'),
     tag5       = $('.進芫'),
-    tag6       = $('.place_your_tag_name_here');
+    tag6       = $('.邹神');
 var sidebar    = $('#sidebar'),
     container  = $('#post'),
     content    = $('#pjax'),
@@ -30,7 +30,7 @@ var clickHandler = function(k) {
     window['tag'+k].delay(50).fadeIn(350);
   }
 };
-for (var i = 1; i <= 5; i++) {
+for (var i = 1; i <= 6; i++) {
   $('#js-label' + i).on('click', clickHandler(i));
 }
 

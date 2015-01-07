@@ -13,8 +13,7 @@ permalink: /how-to-write-this-blog.html
 下载[`Github for Windows`](https://windows.github.com/)或者[`GitHub for Mac`](https://mac.github.com/)。  
 
 #3. 克隆项目文件  
-点击[`项目页面`](https://github.com/xjya/xjya.github.io)右侧的[`Clone in Desktop`](github-windows://openRepo/https://github.com/xjya/xjya.github.io)按钮。  
-找个位置保存项目。  
+猛戳[`这里`](github-windows://openRepo/https://github.com/xjya/xjya.github.io)，找个位置保存项目。  
 
 #4. 开始写博客  
 打开`\xjya.github.io\_posts`目录，新建一个文件，文件名要求是`年-月-日-标题.markdown`，如`2015-01-06-how-to-write-this-blog.markdown`  
