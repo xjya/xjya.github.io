@@ -30,7 +30,7 @@ identifier: how-to-write-this-blog
 ---  
 {% endhighlight %}
 `date`博客根据日期逆序排序。假如需要置顶博文，只需要设置一个巨大的年份，比如9999。  
-`categories`填写小君、油油、進芫、bobo中的一个。  
+`categories`填写小君、油油、進芫、bobo、邹神中的一个。  
 `permalink`填一个你觉得好听的名字。
 `identifier`用于评论的唯一码，起个唯一的名字。两篇博客需共享评论则设为相同。  
 文件内容使用markdown语法，使用[`马克飞象`](http://maxiang.info/)来试试markdown语法吧~上手就会，根本不用教~  

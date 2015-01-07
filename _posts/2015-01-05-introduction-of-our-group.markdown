@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction to Our Group"
+title: "--- Introduction to Our Group ---"
 date: 9999-01-05 21:59
 categories: 油油
 permalink: /introduction-to-our-group.html
