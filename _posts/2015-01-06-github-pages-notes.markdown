@@ -4,6 +4,7 @@ title: "Github Pages部署注意事项"
 date: 2015-01-06 11:06
 categories: 進芫
 permalink: /github-pages-notes.html
+identifier: github-pages-notes
 ---
 
 项目->Settings，默认分支选择gh-pages（没有就新建）。  

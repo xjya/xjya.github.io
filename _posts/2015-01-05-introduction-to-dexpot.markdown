@@ -7,7 +7,7 @@ permalink: /introduction-to-dexpot.html
 identifier: introduction-to-dexpot
 ---
 
-[Dexpot][1]是一款虚拟桌面软件，[小众软件][2]有对它的介绍，简单操作不再赘述。  
+[`Dexpot`][1]是一款虚拟桌面软件，[小众软件][2]有对它的介绍，简单操作不再赘述。  
 Dexpot有几项功能，非常方便日常开发使用。
 
 ####1. 屏幕分辨率设置
